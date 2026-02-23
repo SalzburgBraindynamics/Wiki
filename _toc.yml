@@ -8,9 +8,9 @@ chapters:
   - file: Lab-Procedures/lorem_ipsum
     sections:
      - file: Lab-Procedures/lorem_ipsum
-  - file: Experiment/lorem_ipsum
+  - file: Experiments/lorem_ipsum
     sections:
-     - file: Experiment/lorem_ipsum
+     - file: Experiments/RandomExperiment
   - file: Onboarding/lorem_ipsum
     sections:
      - file: Onboarding/lorem_ipsum
