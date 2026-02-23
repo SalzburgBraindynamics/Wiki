@@ -1,5 +1,5 @@
-### 2. Laptop Setup
-
+# **2. Laptop Setup**
+---
 **[Global Protect](https://apps.microsoft.com/detail/9nblggh6bzl3?hl=en-us&gl=US)**<br>
 The University of Salzburg offers a VPN service that lets you use your personal computer as if it were connected to the university network. To enable it, install the GlobalProtect Client for your operating system.
 - Follow [this](https://im.sbg.ac.at/spaces/ITInfo/pages/42173841/VPN+-+Zugang+f%C3%BCr+Bedienstete#VPNZugangf%C3%BCrBedienstete-Englishinstructions) tutorial to set it up (scroll down for the English version).
