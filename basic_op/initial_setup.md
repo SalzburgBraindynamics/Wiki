@@ -1,4 +1,5 @@
-### 1. Initial Setup
+# **1. Initial Setup**
+---
 **[Two-Factor-Authentication](https://im.sbg.ac.at/spaces/ITInfo/pages/303891727/2-Faktor-Authentifizierung)**<br>
 For security, all PLUS students and staff must use Two-Factor Authentication (2FA). It is required to access PLUS.place and your university email. Setup is done via an authenticator app (e.g., [Microsoft Authenticator App](https://support.microsoft.com/en-us/account-billing/download-microsoft-authenticator-351498fc-850a-45da-b7b6-27e523b8702a)) on your phone. Alternative methods are described in the [intranet guide](https://im.sbg.ac.at/spaces/ITInfo/pages/303891727/2-Faktor-Authentifizierung?preview=/303891727/323896682/Zwei-Faktor-Authentifizierung_Beschreibung.pdf).
 

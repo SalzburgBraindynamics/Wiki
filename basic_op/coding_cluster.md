@@ -1,4 +1,5 @@
-### 3. Coding Workflow and Cluster Computing  
+# **3. Coding Workflow and Cluster Computing**
+---  
 #### 3.1 Git and GitLab  
 In our lab, we use Git and GitLab to manage code and collaborate efficiently.<br>
 

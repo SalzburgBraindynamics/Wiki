@@ -1,4 +1,5 @@
-### 4. Data Management
+# **4. Data Management**
+---
 The final step in your onboarding is learning where the data lives and how to access it.<br>
 
 **MEG Data** <br>
