@@ -1,0 +1,16 @@
+format: jb-book
+root: preface
+
+chapters:
+  - file: Admin-Procedures/lorem_ipsum
+    sections:
+     - file: Admin-Procedures/lorem_ipsum
+  - file: Lab-Procedures/lorem_ipsum
+    sections:
+     - file: Lab-Procedures/lorem_ipsum
+  - file: Experiment/lorem_ipsum
+    sections:
+     - file: Experiment/lorem_ipsum
+  - file: Onboarding/lorem_ipsum
+    sections:
+     - file: Onboarding/lorem_ipsum
