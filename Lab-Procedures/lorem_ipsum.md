@@ -1,3 +1,0 @@
-## Lab Procedures
-
-Hello world

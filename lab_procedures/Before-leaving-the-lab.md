@@ -1,6 +1,6 @@
 # MEG : Before leaving the lab
 
-* [clean the equipment](Cleaning-of-the-equipment_27400561.html) (MEG-helmet, button-box, polhemus-pen/glasses, MRT-glasses...)
+* [clean the equipment](Cleaning-of-the-equipment.md) (MEG-helmet, button-box, polhemus-pen/glasses, MRT-glasses...)
 * switch off all devices:switch off green multiplesocket-switch inside stim-cabinettswitch off vpixx-controllers and set back all switches to default positions!switch off projector (do it carefully as it takes hours and fine-tuning skills to put it back in the correct position!)switch off Polhemus Fastrak
 * tilt MEG back from measurement position (0°, 60° or 68°) to liquefaction position (25°). Make sure that you pulled out the MEG-chair first!!
 

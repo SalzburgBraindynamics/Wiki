@@ -10,19 +10,16 @@ The MEG can be set to four fixed positions, driven by a linkage: three measureme
 
 A) tilting the MEG from liquefaction-position to measuring-position:
 
-![](https://gitlab.com/obob/obob_ownft/uploads/716ee7411028f96aa942cdfa15e9e59a/DSC_0192.jpg)![](https://gitlab.com/obob/obob_ownft/uploads/f31cfa16399d5a1585cb5d6eb6f96ba2/DSC_0194.jpg)
 
 press the UP-button continuously until the gantry stops automatically accompanied by a loud cracking noise – now the lower seated position (60°) is reached.
 
 If you prefer the higher seated position, press the UP-button again continuously until the gantry stops at 68°.
 
-![](https://gitlab.com/obob/obob_ownft/uploads/d7b03e78918c77653c50cc8922b92110/DSC_0195.jpg)
 
 now the yellow LED (tension) is glowing – the gantry is still hanging on the rope of the linkage
 
 press the DOWN-button for a short time until the green LED (ok) glows – the gantry is hanging stable on it's latches now
 
-![](https://gitlab.com/obob/obob_ownft/uploads/942b3ed9bfab7974d5b7ca0392facddc/DSC_0196.jpg)
 
 * **switch on the emergency call system (green button - next to the "nurse-symbol")******
 * **switch on all necessary devices (Polhemus, open stimulation cabinett: green power-switch, blue vpixx-boxes, projector ...)******

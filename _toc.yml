@@ -2,15 +2,23 @@ format: jb-book
 root: preface
 
 chapters:
-  - file: Admin-Procedures/lorem_ipsum
+  - file: basic_op/landing_page
     sections:
-     - file: Admin-Procedures/lorem_ipsum
-  - file: Lab-Procedures/lorem_ipsum
+     - file: basic_op/initial_setup
+     - file: basic_op/laptop_setup
+     - file: basic_op/coding_cluster
+     - file: basic_op/data_management
+  - file: lab_procedures/landing_page
     sections:
-     - file: Lab-Procedures/lorem_ipsum
-  - file: Experiments/lorem_ipsum
+     - file: lab_procedures/After-entering-the-lab
+     - file: lab_procedures/Before-starting-the-acquisition
+     - file: lab_procedures/Cleaning-of-the-equipment
+     - file: lab_procedures/data_management
+     - file: lab_procedures/MEGlab_Blackbox
+     - file: lab_procedures/Auditory-tubes
+  - file: Experiments/landing_page
     sections:
-     - file: Experiments/RandomExperiment
+     - file: Experiments/wiki_experimental-coding
   - file: Onboarding/lorem_ipsum
     sections:
      - file: Onboarding/lorem_ipsum
