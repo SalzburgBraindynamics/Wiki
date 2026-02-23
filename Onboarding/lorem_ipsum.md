@@ -1,3 +1,0 @@
-## Onboarding
-
-Hello world
